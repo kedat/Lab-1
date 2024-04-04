@@ -1,0 +1,15 @@
+outlook,temperature,humidity,wind,class_type
+Sunny,hot,high,weak,N
+sunny ,hot ,high,strong  ,N
+overcast ,hot ,high,weak ,Y
+Rain,mild,high , weak , Y 
+Rain,Cool,normal  , weak  , Y 
+Rain,Cool,normal,strong, N
+Overcast,Cool,normal,strong,Y
+Sunny,mild,high,weak,N
+Sunny,cool,normal,weak,Y
+Rain,mild,normal,weak,Y
+Sunny,mild,normal,strong,Y
+overcast,mild,high,strong,Y
+overcast,hot,normal,weak,Y
+Rain,mild,high,strong,N
